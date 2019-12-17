@@ -5,7 +5,21 @@ A project that will grab information from a MongoDB database (which has been min
 Future:
 This project will expand to include an analysis of an author's profile on Github to create a more accurate reading of whether or not a user is a bot.
 
+## Getting Started
+
 <i> Please note, this code is designed to run on a Linux machine and includes packages that will not work on Windows </i>
+
+The following instructions will help you get a copy of this project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. See file names for an outline of what each of the included files does.
+
+### Prerequisites
+
+```
+python
+```
+Install
+```
+pip install pymongo, csv, re
+```
 
 ### writing_csv.py
 

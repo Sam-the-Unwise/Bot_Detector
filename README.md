@@ -43,8 +43,8 @@ This script contains all the methods used to extract the author and bot_percenta
 
 ## Authors
 
-* **Samantha Muellner** - [GitHub](https://github.com/Sam-the-Unwise)
+* <b>Samantha Muellner</b> - [GitHub](https://github.com/Sam-the-Unwise)
 
 ## Acknowledgments
 
-* **Igor Steinmacher, PHD.** - *Advisor* [Profile](https://www.igor.pro.br/)
+* <b>Igor Steinmacher, PHD </b> - <i>Advisor</i> [Profile](https://www.igor.pro.br/)

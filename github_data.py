@@ -6,10 +6,11 @@ DESCRIPTION: Script that runs a query on Github repositories and analyzes the in
 # imports
 import requests, time, json, datetime, csv, pymongo
 #from config import GITHUB_AUTHORIZATION_KEY, MONGO_USER, MONGO_PASSWORD
+from variables import AUTHO_TOKEN
 
 # Variables
 PERCENTAGE = 0
-headers = {"Authorization": "token fad7be26a2dd101be98601650872d81d505cef0d"}
+headers = {"Authorization": AUTHO_TOKEN}
 
 # Defines the query to run
 def create_query(author_name):

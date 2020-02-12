@@ -5,7 +5,6 @@ DESCRIPTION: Script that runs a query on Github repositories and analyzes the in
 
 # imports
 import requests, time, json, datetime, csv, pymongo
-#from config import GITHUB_AUTHORIZATION_KEY, MONGO_USER, MONGO_PASSWORD
 from variables import AUTHO_TOKEN
 
 # Variables

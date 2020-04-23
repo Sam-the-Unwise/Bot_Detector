@@ -18,7 +18,7 @@ python
 ```
 Install
 ```
-pip install pymongo, csv, re
+pip install pymongo, csv, re, numpy, statistics, math, time
 ```
 
 ### writing_csv.py
